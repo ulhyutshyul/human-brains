@@ -1,0 +1,97 @@
+body{
+    text-align: center;
+}
+a{
+    text-align: left;
+}
+h1 {
+    text-align: center;
+}
+header {
+    background-color: blueviolet;
+    border: 2px solid #F80012;
+    text-align: center;
+    font-size: 20px;
+}
+.o {
+    font-size: 17px;
+}
+.i {
+ width:150px;
+ height: 300px;
+ text-align: center;
+}
+a {
+    color: blueviolet;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.y {
+    color: rgb(9, 255, 0);
+    text-align: center;
+}
+.u {
+    color: rgb(212, 0, 255);
+    text-align: center;
+}
+h2 {
+    text-align: center;
+   color:  rgb(255, 0, 0);
+}
+.k {
+    width: 780px;
+    height: 2px;
+    background-color: blue;
+}
+.w {
+     color: rgb(9, 255, 0);
+    text-align: center;
+}
+.n {
+    color: rgb(4, 0, 255);
+    text-align: center;
+}
+.d {
+    color: rgb(238, 255, 0);
+    text-align: center;
+}
+.f {
+    text-align: center;
+   color:  rgb(255, 0, 0);
+}
+.a {
+    color: rgb(9, 255, 0);
+    text-align: center;
+}
+.q {
+    color: rgb(255, 0, 157);
+    text-align: center; 
+}
+.cl {
+    color: rgb(4, 0, 255);
+    text-align: center; 
+}
+.e {
+     color: rgb(212, 0, 255);
+    text-align: center;
+}
+.z {
+    color: rgb(9, 255, 0);
+    text-align: center;
+
+}
+.l {
+    color: rgb(4, 0, 255);
+    text-align: center; 
+}
+.h {
+    width: 200px;
+    height: 250px;
+}
+footer {
+      background-color: #F80012;
+    border: 2px solid blueviolet;
+    text-align: center;
+    font-size: 20px;
+}
